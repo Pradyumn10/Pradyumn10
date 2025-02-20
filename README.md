@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Data Science
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Data Science Projects
-- 📫 How to reach me pradyumn.joshi18@stu.srmuniversity.ac.in
+- 📫 How to reach me 108pradyumn@gmail.com
 
 <!---
 Pradyumn10/Pradyumn10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
